@@ -18,6 +18,8 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ```sh
 npm install
+cd backend
+npm install
 ```
 
 ### Compile and Hot-Reload for Development
