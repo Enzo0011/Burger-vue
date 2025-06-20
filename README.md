@@ -37,3 +37,10 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Start backend
+
+```sh
+cd backend
+npm start
+```
